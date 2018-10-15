@@ -31,3 +31,7 @@ d1= Dog("Punte",13)
 print(d1.get_age())
 print(d1)
 print(Dog.random())
+
+
+
+unwantedText
